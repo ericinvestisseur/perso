@@ -1,0 +1,27 @@
+body{
+    display: flex;
+    background-color: aquamarine;
+}
+#block1{
+    background-color: aquamarine;
+    padding: auto;
+    line-height: 50px;
+}
+.profil{
+    background-color: rgb(16, 243, 42);
+}
+.contact{
+    background-color: rgb(16, 243, 42);
+}
+.competences{
+    background-color: rgb(16, 243, 42);
+}
+.centredinteret{
+    background-color: rgb(16, 243, 42);
+}
+#block2{
+    margin-left: 150px;
+    background-color: rgb(12, 188, 220);
+    color: white;
+    padding: 40px;   
+}
