@@ -23,5 +23,9 @@ body{
     margin-left: 150px;
     background-color: rgb(12, 188, 220);
     color: white;
-    padding: 40px;   
+    padding: 40px;
+    border-radius: 1%;   
+}
+.titre{
+    
 }
